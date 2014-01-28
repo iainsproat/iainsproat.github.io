@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: Iain Sproat
+title: A site
 ---
 
 This is the index
