@@ -1,5 +1,7 @@
 timezone: Europe/London
 keep_files:  ['.git']
+redcarpet:
+  extensions: ['autolink', 'strikethrough', 'superscript']
 title: Iain Sproat
 author:
   name: Iain Sproat
