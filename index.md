@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: home
 title: A site
 ---
 
