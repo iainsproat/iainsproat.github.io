@@ -1,6 +1,8 @@
 ---
 layout: home
-title: A site
+title: Iain Sproat
 ---
 
-This is the index
+* [Twitter](https://twitter.com/iainsproat)
+* [Github](https://github.com/iainsproat)
+* [LinkedIn](https://www.linkedin.com/in/iainsproat)
