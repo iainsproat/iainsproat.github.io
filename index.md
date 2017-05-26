@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Iain Sproat
+title: Welcome
 ---
 
 * [Twitter](https://twitter.com/iainsproat)
