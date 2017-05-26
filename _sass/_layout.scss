@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+	color: $font-color;
+	font-family: $font-stack;
+	font-size: 1.1em;
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+	color: $heading-font-color;
+	font-family: $heading-font;
+  font-size: 1.1em;
+	line-height: 1.6;
+  a,
+	a:visited {
+		text-decoration: none;
+		color: $main;
+	}
+}
+
+a,
+a:visited {
+	color: $link-color;
+	text-decoration: underline;
+}
+a:hover {
+	color: $link-hover-color;
+	text-decoration: underline;
+}

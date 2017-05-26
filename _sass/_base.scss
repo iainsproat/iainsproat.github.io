@@ -1,5 +1,7 @@
+$main: #F0F0F0;
 $font-stack: 'VT323', monospace;
-
-body {
-  font: 100% $font-stack;
-}
+$font-color: #373D3F;
+$link-color: #707C80;
+$link-hover-color: $main;
+$heading-font-color: $font-color;
+$heading-font: $font-stack;
