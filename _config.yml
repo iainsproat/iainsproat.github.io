@@ -8,3 +8,5 @@ author:
   email: iainsproat@gmail.com
   twitter: iainsproat
   github: iainsproat
+sass:
+    sass_dir: _sass
